@@ -1,2 +1,2 @@
-# mi-primer-repositorio
-Mi primer repositorio en Git Hub
+# Mi primer README
+Mi primer repositorio en Git Hub para el curso freeCodeCamp
